@@ -1,0 +1,14 @@
+///This is a rough mock up of what I had in mind for a drum sequencer using your WONDERFUL sequencer script. 
+///I've got a scene made up already as a proof of concept. It's quite ugly though. 
+///I'm looking to at somepoint implement this type of game/instrument into a VR space.
+///I don't think anyone has made something like this yet!
+///Functions and parameters to consider
+  -Upon instrument selection, mix window pops up showing >> Sample playback length, sample start position, sample pitch, reverse, etc.
+  -Filters and FX for each instrument in an FX window with sliders/knobs.
+  -A Clear button for steps
+  -A Tempo Slider
+  -A Velocity selection for each step(matched to color, green/yellow/red)
+  
+///For the future
+  -Sample panning or positioning in 3D audio in Unity!
+  -Shuffle?
